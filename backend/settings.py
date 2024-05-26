@@ -60,8 +60,8 @@ INSTALLED_APPS = [
     "repoinsights",
     "githubuser",
     "rabbitmq",
+    
 ]
-
 
 MIDDLEWARE = [
     "corsheaders.middleware.CorsMiddleware",
